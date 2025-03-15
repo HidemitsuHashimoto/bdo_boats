@@ -1,0 +1,2 @@
+D:/Projetos/bdo_boats/android/app/.cxx/Debug/444r5x1l/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Projetos/bdo_boats/android/app/.cxx/Debug/444r5x1l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
