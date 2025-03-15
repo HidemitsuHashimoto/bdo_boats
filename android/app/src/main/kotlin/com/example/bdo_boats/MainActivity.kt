@@ -1,4 +1,4 @@
-package com.example.bdo_boats
+package com.bdo_boats
 
 import io.flutter.embedding.android.FlutterActivity
 
