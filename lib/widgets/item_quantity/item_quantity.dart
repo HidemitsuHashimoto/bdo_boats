@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:bdo_boats/providers/materials.dart';
@@ -23,7 +21,7 @@ class ItemQuantity extends StatelessWidget {
   Widget build(BuildContext context) {
     shipmaterial.Material? material =
         context.watch<Materials>().getMaterial(materialId);
-    log(material.toString());
+
     return Container(
       padding: const EdgeInsets.all(8),
       decoration: const BoxDecoration(
