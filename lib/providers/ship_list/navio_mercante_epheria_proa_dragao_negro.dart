@@ -2,7 +2,7 @@ import 'package:bdo_boats/domain/ship.dart';
 
 Ship navioMercanteEpheriaEstatuaProaDragaoNegro = Ship(
   id: 'navioMercanteEpheriaEstatuaProaDragaoNegro',
-  name: 'Navio Mercante de Epheria: Estátua de Proa de Dragão Negro',
+  name: 'Navio Mercante de Epheria: Proa de Dragão Negro',
   materials: {
     'navioMercanteEpheriaEstatuaProaLataoPlus10': 1,
     'barraMarVermelho': 50,
