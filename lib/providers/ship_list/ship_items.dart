@@ -46,7 +46,7 @@ List<Ship> shipItems = [
   fragataEpheria,
   navioMercanteEpheriaCanhaoMeina,
   navioMercanteEpheriaLuvaAprimoravel,
-  navioMercanteEpheriaEstatuaProaDragaoNegro,
+  navioMercanteEpheriaProaDragaoNegro,
   navioMercanteEpheriaVelaCamada,
   navioMercanteEpheria,
   veleiroBartali,

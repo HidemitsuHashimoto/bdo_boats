@@ -4,7 +4,7 @@ Ship carracaEpheriaGradual = Ship(
   id: 'carracaEpheriaGradual',
   name: 'Carraca de Epheria: Gradual',
   materials: {
-    'navioMercanteEpheriaEstatuaProaDragaoNegroPlus10': 1,
+    'navioMercanteEpheriaProaDragaoNegroPlus10': 1,
     'navioMercanteEpheriaLuvaAprimoravelPlus10': 1,
     'navioMercanteEpheriaCanhaoMeinaPlus10': 1,
     'navioMercanteEpheriaVelaCamadaPlus10': 1,

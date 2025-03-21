@@ -13,7 +13,7 @@ class ShipEquipmentsUpgrade {
   static List<String> list(String id) {
     return switch (id) {
       'navioMercanteEpheria' => [
-          'navioMercanteEpheriaEstatuaProaDragaoNegro',
+          'navioMercanteEpheriaProaDragaoNegro',
           'navioMercanteEpheriaLuvaAprimoravel',
           'navioMercanteEpheriaCanhaoMeina',
           'navioMercanteEpheriaVelaCamada',

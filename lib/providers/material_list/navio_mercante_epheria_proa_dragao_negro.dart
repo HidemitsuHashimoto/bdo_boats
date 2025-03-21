@@ -1,7 +1,7 @@
 import 'package:bdo_boats/domain/material.dart';
 
-Material navioMercanteEpheriaEstatuaProaDragaoNegro = Material(
-  id: 'navioMercanteEpheriaEstatuaProaDragaoNegro',
+Material navioMercanteEpheriaProaDragaoNegro = Material(
+  id: 'navioMercanteEpheriaProaDragaoNegro',
   name: 'Navio Mercante de Epheria: Proa de Dragão Negro',
   quantity: 0,
 );
