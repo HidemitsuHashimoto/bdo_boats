@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';
 import 'package:provider/provider.dart';
@@ -110,6 +112,8 @@ class _ShipEquipmentsDetailsState extends State<ShipEquipmentsDetails> {
 
                     for (var key in shipMaterialsKeys) {
                       final item = context.watch<Materials>().getMaterial(key);
+                      if (item == null) log('$key,${item.toString()}');
+
                       if (item != null) materials.add(item);
                     }
 

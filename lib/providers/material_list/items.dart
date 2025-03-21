@@ -12,6 +12,7 @@ import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_proa_s
 import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_vela_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_canhao_toro_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_casco_toro_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_canhao_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_proa_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_casco_negro_shiro.dart';
@@ -108,6 +109,7 @@ import 'package:bdo_boats/providers/material_list/veleiro_bartali_vela_vento_vel
 import 'package:bdo_boats/providers/material_list/veleiro_epheria.dart';
 
 List<Material> materialItems = [
+  carracaEpheriaCascoToroPlus10,
   carracaEpheriaAscensaoVelaShiro,
   carracaEpheriaBravuraVelaShiro,
   carracaEpheriaEquilibrioVelaShiro,
