@@ -93,17 +93,17 @@ import 'package:bdo_boats/providers/material_list/permissao_alteracao_peca_carra
 import 'package:bdo_boats/providers/material_list/permissao_alteracao_peca_carraca_epheria_emergencia.dart';
 import 'package:bdo_boats/providers/material_list/permissao_alteracao_peca_carraca_epheria_equilibrio.dart';
 import 'package:bdo_boats/providers/material_list/permissao_alteracao_peca_carraca_epheria_gradual.dart';
-import 'package:bdo_boats/providers/material_list/planta_construcao_estatua_proa_shiro.dart';
+import 'package:bdo_boats/providers/material_list/planta_construcao_proa_shiro.dart';
 import 'package:bdo_boats/providers/material_list/planta_construcao_vela_shiro.dart';
 import 'package:bdo_boats/providers/material_list/planta_construcao_canhao_shiro.dart';
-import 'package:bdo_boats/providers/material_list/planta_construcao_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/material_list/planta_construcao_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/material_list/suporte_acabamento_elaborado.dart';
 import 'package:bdo_boats/providers/material_list/tecido_linho.dart';
 import 'package:bdo_boats/providers/material_list/tecido_linho_lua_gravada.dart';
 import 'package:bdo_boats/providers/material_list/veleiro_bartali.dart';
 import 'package:bdo_boats/providers/material_list/veleiro_bartali_canhao_velho_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/veleiro_bartali_casco_velho_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/veleiro_bartali_estatua_proa_velha_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/veleiro_bartali_proa_velha_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/veleiro_bartali_vela_vento_velha_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/veleiro_epheria.dart';
 
@@ -135,8 +135,8 @@ List<Material> materialItems = [
   colaTracosOnda,
   plantaConstrucaoVelaShiro,
   plantaConstrucaoCanhaoShiro,
-  plantaConstrucaoLuvaNegraShiro,
-  plantaConstrucaoEstatuaProaShiro,
+  plantaConstrucaoCascoNegroShiro,
+  plantaConstrucaoProaShiro,
   acoMaterial,
   artefatoPiratasCoxCombate,
   artefatoPiratasCoxNegociacaoAltoNivel,
@@ -163,8 +163,8 @@ List<Material> materialItems = [
   epheriaCanhaoVelho,
   epheriaCascoVelhoPlus10,
   epheriaCascoVelho,
-  epheriaEstatuaProaVelhaPlus10,
-  epheriaEstatuaProaVelha,
+  epheriaProaVelhaPlus10,
+  epheriaProaVelha,
   epheriaVelaVentoVelhaPlus10,
   epheriaVelaVentoVelha,
   esculturaRecifePuro,
@@ -212,7 +212,7 @@ List<Material> materialItems = [
   veleiroBartali,
   veleiroBartaliCanhaoVelhoPlus10,
   veleiroBartaliCascoVelhoPlus10,
-  veleiroBartaliEstatuaProaVelhaPlus10,
+  veleiroBartaliProaVelhaPlus10,
   veleiroBartaliVelaVentoVelhaPlus10,
   veleiroEpheria,
 ];

@@ -4,7 +4,7 @@ Ship veleiroEpheria = Ship(
   id: 'veleiroEpheria',
   name: 'Veleiro de Epheria',
   materials: {
-    'veleiroBartaliEstatuaProaVelhaPlus10': 1,
+    'veleiroBartaliProaVelhaPlus10': 1,
     'veleiroBartaliCascoVelhoPlus10': 1,
     'veleiroBartaliCanhaoVelhoPlus10': 1,
     'veleiroBartaliVelaVentoVelhaPlus10': 1,
