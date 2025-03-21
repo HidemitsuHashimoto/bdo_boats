@@ -4,8 +4,8 @@ Ship carracaEpheriaBravura = Ship(
   id: 'carracaEpheriaBravura',
   name: 'Carraca de Epheria: Bravura',
   materials: {
-    'contratorpedeiroEpheriaEstatuaProaDragaoNegroPlus10': 1,
-    'contratorpedeiroEpheriaLuvaAprimoravelPlus10': 1,
+    'contratorpedeiroEpheriaProaDragaoNegroPlus10': 1,
+    'contratorpedeiroEpheriaCascoRefinadoPlus10': 1,
     'contratorpedeiroEpheriaCanhaoMeinaPlus10': 1,
     'contratorpedeiroEpheriaVelaCamadaPlus10': 1,
     'tecidoLinhoLuaGravada': 180,

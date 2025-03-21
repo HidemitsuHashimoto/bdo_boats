@@ -5,7 +5,7 @@ Ship carracaEpheriaEquilibrio = Ship(
   name: 'Carraca de Epheria: Equilíbrio',
   materials: {
     'navioMercanteEpheriaProaDragaoNegroPlus10': 1,
-    'navioMercanteEpheriaLuvaAprimoravelPlus10': 1,
+    'navioMercanteEpheriaCascoRefinadoPlus10': 1,
     'navioMercanteEpheriaCanhaoMeinaPlus10': 1,
     'navioMercanteEpheriaVelaCamadaPlus10': 1,
     'tecidoLinhoLuaGravada': 180,

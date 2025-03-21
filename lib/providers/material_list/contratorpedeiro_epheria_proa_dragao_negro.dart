@@ -1,7 +1,7 @@
 import 'package:bdo_boats/domain/material.dart';
 
-Material contratorpedeiroEpheriaEstatuaProaDragaoNegro = Material(
-  id: 'contratorpedeiroEpheriaEstatuaProaDragaoNegro',
+Material contratorpedeiroEpheriaProaDragaoNegro = Material(
+  id: 'contratorpedeiroEpheriaProaDragaoNegro',
   name: 'Contratorpedeiro de Epheria: Proa de Dragão Negro',
   quantity: 0,
 );

@@ -21,13 +21,13 @@ import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_luva_negra
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_vela_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria.dart';
 import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria_canhao_meina.dart';
-import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria_luva_aprimoravel.dart';
+import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria_casco_refinado.dart';
 import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria_proa_dragao_negro.dart';
 import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria_vela_camada.dart';
 import 'package:bdo_boats/providers/ship_list/fragata_epheria.dart';
 import 'package:bdo_boats/providers/ship_list/navio_mercante_epheria.dart';
 import 'package:bdo_boats/providers/ship_list/navio_mercante_epheria_canhao_meina.dart';
-import 'package:bdo_boats/providers/ship_list/navio_mercante_epheria_luva_aprimoravel.dart';
+import 'package:bdo_boats/providers/ship_list/navio_mercante_epheria_casco_refinado.dart';
 import 'package:bdo_boats/providers/ship_list/navio_mercante_epheria_proa_dragao_negro.dart';
 import 'package:bdo_boats/providers/ship_list/navio_mercante_epheria_vela_camada.dart';
 import 'package:bdo_boats/providers/ship_list/veleiro_bartali.dart';
@@ -39,13 +39,13 @@ List<Ship> shipItems = [
   carracaEpheriaEquilibrio,
   carracaEpheriaGradual,
   contratorpedeiroEpheriaCanhaoMeina,
-  contratorpedeiroEpheriaLuvaAprimoravel,
-  contratorpedeiroEpheriaEstatuaProaDragaoNegro,
+  contratorpedeiroEpheriaCascoRefinado,
+  contratorpedeiroEpheriaProaDragaoNegro,
   contratorpedeiroEpheriaVelaCamada,
   contratorpedeiroEpheria,
   fragataEpheria,
   navioMercanteEpheriaCanhaoMeina,
-  navioMercanteEpheriaLuvaAprimoravel,
+  navioMercanteEpheriaCascoRefinado,
   navioMercanteEpheriaProaDragaoNegro,
   navioMercanteEpheriaVelaCamada,
   navioMercanteEpheria,

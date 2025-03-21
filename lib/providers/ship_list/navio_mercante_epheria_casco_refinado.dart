@@ -1,8 +1,8 @@
 import 'package:bdo_boats/domain/ship.dart';
 
-Ship navioMercanteEpheriaLuvaAprimoravel = Ship(
-  id: 'navioMercanteEpheriaLuvaAprimoravel',
-  name: 'Navio Mercante de Epheria: Luva Aprimorável',
+Ship navioMercanteEpheriaCascoRefinado = Ship(
+  id: 'navioMercanteEpheriaCascoRefinado',
+  name: 'Navio Mercante de Epheria: Casco Refinado',
   materials: {
     'navioMercanteEpheriaCascoAprimoradoPlus10': 1,
     'cristalPerolaPura': 45,

@@ -1,10 +1,10 @@
 import 'package:bdo_boats/domain/ship.dart';
 
-Ship contratorpedeiroEpheriaEstatuaProaDragaoNegro = Ship(
-  id: 'contratorpedeiroEpheriaEstatuaProaDragaoNegro',
+Ship contratorpedeiroEpheriaProaDragaoNegro = Ship(
+  id: 'contratorpedeiroEpheriaProaDragaoNegro',
   name: 'Contratorpedeiro de Epheria: Proa de Dragão Negro',
   materials: {
-    'contratorpedeiroEpheriaEstatuaProaQuartzoBrancoPlus10': 1,
+    'contratorpedeiroEpheriaProaQuartzoBrancoPlus10': 1,
     'barraMarVermelho': 50,
     'madeiraCompensadaRevestidaRubusAprimorada': 300,
     'cauleAlgaProfunda': 125,

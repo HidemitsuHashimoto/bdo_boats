@@ -14,13 +14,13 @@ class ShipEquipmentsUpgrade {
     return switch (id) {
       'navioMercanteEpheria' => [
           'navioMercanteEpheriaProaDragaoNegro',
-          'navioMercanteEpheriaLuvaAprimoravel',
+          'navioMercanteEpheriaCascoRefinado',
           'navioMercanteEpheriaCanhaoMeina',
           'navioMercanteEpheriaVelaCamada',
         ],
       'contratorpedeiroEpheria' => [
-          'contratorpedeiroEpheriaEstatuaProaDragaoNegro',
-          'contratorpedeiroEpheriaLuvaAprimoravel',
+          'contratorpedeiroEpheriaProaDragaoNegro',
+          'contratorpedeiroEpheriaCascoRefinado',
           'contratorpedeiroEpheriaCanhaoMeina',
           'contratorpedeiroEpheriaVelaCamada',
         ],

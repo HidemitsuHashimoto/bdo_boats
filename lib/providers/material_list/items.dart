@@ -30,12 +30,12 @@ import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria.dart'
 import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_canhao_meina.dart';
 import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_canhao_meina_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_canhao_verisha_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_estatua_proa_dragao_negro.dart';
-import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_estatua_proa_dragao_negro_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_estatua_proa_quartzo_branco_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_luva_aprimoramento_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_luva_aprimoravel.dart';
-import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_luva_aprimoravel_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_proa_dragao_negro.dart';
+import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_proa_dragao_negro_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_proa_quartzo_branco_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_casco_aprimorado_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_casco_refinado.dart';
+import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_casco_refinado_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_vela_camada.dart';
 import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_vela_camada_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/contratorpedeiro_epheria_vela_vento_branca_plus_10.dart';
@@ -81,9 +81,9 @@ import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_canhao_
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_proa_dragao_negro.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_proa_dragao_negro_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_proa_latao_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_luva_aprimoramento.dart';
-import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_luva_aprimoramento_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_luva_aprimoravel_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_casco_aprimorado.dart';
+import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_casco_aprimorado_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_casco_refinado_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_vela_camada.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_vela_camada_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_vela_vento_branca_plus_10.dart';
@@ -148,12 +148,12 @@ List<Material> materialItems = [
   contratorpedeiroEpheriaCanhaoMeinaPlus10,
   contratorpedeiroEpheriaCanhaoMeina,
   contratorpedeiroEpheriaCanhaoVerishaPlus10,
-  contratorpedeiroEpheriaEstatuaProaDragaoNegroPlus10,
-  contratorpedeiroEpheriaEstatuaProaDragaoNegro,
-  contratorpedeiroEpheriaEstatuaProaQuartzoBrancoPlus10,
-  contratorpedeiroEpheriaLuvaAprimoramentoPlus10,
-  contratorpedeiroEpheriaLuvaAprimoravelPlus10,
-  contratorpedeiroEpheriaLuvaAprimoravel,
+  contratorpedeiroEpheriaProaDragaoNegroPlus10,
+  contratorpedeiroEpheriaProaDragaoNegro,
+  contratorpedeiroEpheriaProaQuartzoBrancoPlus10,
+  contratorpedeiroEpheriaCascoAprimoradoPlus10,
+  contratorpedeiroEpheriaCascoRefinadoPlus10,
+  contratorpedeiroEpheriaCascoRefinado,
   contratorpedeiroEpheriaVelaCamadaPlus10,
   contratorpedeiroEpheriaVelaCamada,
   contratorpedeiroEpheriaVelaVentoBrancaPlus10,
@@ -200,7 +200,7 @@ List<Material> materialItems = [
   navioMercanteEpheriaProaLataoPlus10,
   navioMercanteEpheriaCascoAprimoradoPlus10,
   navioMercanteEpheriaCascoAprimorado,
-  navioMercanteEpheriaLuvaAprimoravelPlus10,
+  navioMercanteEpheriaCascoRefinadoPlus10,
   navioMercanteEpheriaVelaCamada,
   navioMercanteEpheriaVelaCamadaPlus10,
   navioMercanteEpheriaVelaVentoBrancaPlus10,
