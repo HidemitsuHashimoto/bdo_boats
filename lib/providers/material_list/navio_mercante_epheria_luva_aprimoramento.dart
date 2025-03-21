@@ -1,7 +1,7 @@
 import 'package:bdo_boats/domain/material.dart';
 
-Material navioMercanteEpheriaLuvaAprimoravel = Material(
-  id: 'navioMercanteEpheriaLuvaAprimoravel',
-  name: 'Navio Mercante de Epheria: Luva de Aprimoramento',
+Material navioMercanteEpheriaCascoAprimorado = Material(
+  id: 'navioMercanteEpheriaCascoAprimorado',
+  name: 'Navio Mercante de Epheria: Casco Aprimorado',
   quantity: 0,
 );

@@ -4,7 +4,7 @@ Ship navioMercanteEpheriaLuvaAprimoravel = Ship(
   id: 'navioMercanteEpheriaLuvaAprimoravel',
   name: 'Navio Mercante de Epheria: Luva Aprimorável',
   materials: {
-    'navioMercanteEpheriaLuvaAprimoramentoPlus10': 1,
+    'navioMercanteEpheriaCascoAprimoradoPlus10': 1,
     'cristalPerolaPura': 45,
     'artefatoPiratasCoxNegociacaoBaixoNivel': 60,
     'artefatoPiratasCoxCombate': 60,
