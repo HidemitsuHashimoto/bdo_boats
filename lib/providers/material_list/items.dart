@@ -80,7 +80,7 @@ import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_canhao_
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_canhao_verisha_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_estatua_proa_dragao_negro.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_estatua_proa_dragao_negro_plus_10.dart';
-import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_estatua_proa_latao_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_proa_latao_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_luva_aprimoramento.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_luva_aprimoramento_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/navio_mercante_epheria_luva_aprimoravel_plus_10.dart';
@@ -197,7 +197,7 @@ List<Material> materialItems = [
   navioMercanteEpheriaCanhaoVerishaPlus10,
   navioMercanteEpheriaEstatuaProaDragaoNegro,
   navioMercanteEpheriaEstatuaProaDragaoNegroPlus10,
-  navioMercanteEpheriaEstatuaProaLataoPlus10,
+  navioMercanteEpheriaProaLataoPlus10,
   navioMercanteEpheriaCascoAprimoradoPlus10,
   navioMercanteEpheriaCascoAprimorado,
   navioMercanteEpheriaLuvaAprimoravelPlus10,
