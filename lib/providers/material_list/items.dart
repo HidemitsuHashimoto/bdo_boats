@@ -4,22 +4,22 @@ import 'package:bdo_boats/providers/material_list/artefato_piratas_cox_combate.d
 import 'package:bdo_boats/providers/material_list/artefato_piratas_cox_negociacao_alto_nivel.dart';
 import 'package:bdo_boats/providers/material_list/artefato_piratas_cox_negociacao_baixo_nivel.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_ascensao_canhao_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_ascensao_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_ascensao_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_ascensao_proa_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_ascensao_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_ascensao_vela_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_canhao_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_proa_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_bravura_vela_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_canhao_toro_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_canhao_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_proa_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_equilibrio_vela_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_estatua_proa_toro_plus_10.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_proa_toro_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_gradual_canhao_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_gradual_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/material_list/carraca_epheria_gradual_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_gradual_proa_shiro.dart';
+import 'package:bdo_boats/providers/material_list/carraca_epheria_gradual_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_gradual_vela_shiro.dart';
 import 'package:bdo_boats/providers/material_list/carraca_epheria_vela_toro_plus_10.dart';
 import 'package:bdo_boats/providers/material_list/caule_alga_profunda.dart';
@@ -118,15 +118,15 @@ List<Material> materialItems = [
   carracaEpheriaEquilibrioCanhaoShiro,
   carracaEpheriaGradualCanhaoShiro,
   carracaEpheriaCanhaoToroPlus10,
-  carracaEpheriaAscensaoLuvaNegraShiro,
-  carracaEpheriaBravuraLuvaNegraShiro,
-  carracaEpheriaEquilibrioLuvaNegraShiro,
-  carracaEpheriaGradualLuvaNegraShiro,
-  carracaEpheriaEstatuaProaToroPlus10,
-  carracaEpheriaAscensaoEstatuaProaShiro,
-  carracaEpheriaBravuraEstatuaProaShiro,
-  carracaEpheriaEquilibrioEstatuaProaShiro,
-  carracaEpheriaGradualEstatuaProaShiro,
+  carracaEpheriaAscensaoCascoNegroShiro,
+  carracaEpheriaBravuraCascoNegroShiro,
+  carracaEpheriaEquilibrioCascoNegroShiro,
+  carracaEpheriaGradualCascoNegroShiro,
+  carracaEpheriaProaToroPlus10,
+  carracaEpheriaAscensaoProaShiro,
+  carracaEpheriaBravuraProaShiro,
+  carracaEpheriaEquilibrioProaShiro,
+  carracaEpheriaGradualProaShiro,
   permissaoAlteracaoPecaCarracaEpheriaEmergencia,
   permissaoAlteracaoPecaCarracaEpheriaBravura,
   permissaoAlteracaoPecaCarracaEpheriaEquilibrio,

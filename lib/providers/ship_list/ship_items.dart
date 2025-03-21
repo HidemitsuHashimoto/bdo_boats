@@ -1,23 +1,23 @@
 import 'package:bdo_boats/domain/ship.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_ascensao_canhao_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_ascensao_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_ascensao_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_ascensao_proa_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_ascensao_casco_negra_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_ascensao_vela_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura_canhao_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura_proa_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_bravura_vela_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_emergencia.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio_canhao_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio_proa_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_equilibrio_vela_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_canhao_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_estatua_proa_shiro.dart';
-import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_luva_negra_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_proa_shiro.dart';
+import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_casco_negro_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/carraca_epheria_gradual_vela_shiro.dart';
 import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria.dart';
 import 'package:bdo_boats/providers/ship_list/contratorpedeiro_epheria_canhao_meina.dart';
@@ -59,12 +59,12 @@ List<Ship> shipItems = [
   carracaEpheriaBravuraCanhaoShiro,
   carracaEpheriaEquilibrioCanhaoShiro,
   carracaEpheriaGradualCanhaoShiro,
-  carracaEpheriaAscensaoLuvaNegraShiro,
-  carracaEpheriaBravuraLuvaNegraShiro,
-  carracaEpheriaEquilibrioLuvaNegraShiro,
-  carracaEpheriaGradualLuvaNegraShiro,
-  carracaEpheriaAscensaoEstatuaProaShiro,
-  carracaEpheriaBravuraEstatuaProaShiro,
-  carracaEpheriaEquilibrioEstatuaProaShiro,
-  carracaEpheriaGradualEstatuaProaShiro,
+  carracaEpheriaAscensaoCascoNegroShiro,
+  carracaEpheriaBravuraCascoNegroShiro,
+  carracaEpheriaEquilibrioCascoNegroShiro,
+  carracaEpheriaGradualCascoNegroShiro,
+  carracaEpheriaAscensaoProaShiro,
+  carracaEpheriaBravuraProaShiro,
+  carracaEpheriaEquilibrioProaShiro,
+  carracaEpheriaGradualProaShiro,
 ];

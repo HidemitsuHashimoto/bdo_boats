@@ -1,14 +1,14 @@
 import 'package:bdo_boats/domain/ship.dart';
 
-Ship carracaEpheriaGradualLuvaNegraShiro = Ship(
-  id: 'carracaEpheriaGradualLuvaNegraShiro',
-  name: 'Carraca de Epheria Gradual: Luva Negra de Shiro',
+Ship carracaEpheriaGradualCascoNegroShiro = Ship(
+  id: 'carracaEpheriaGradualCascoNegroShiro',
+  name: 'Carraca de Epheria Gradual: Casco Negro de Shiro',
   materials: {
-    'carracaEpheriaLuvaToroPlus10': 1,
+    'carracaEpheriaCascoToroPlus10': 1,
     'madeiraCompensadaGravacaoOndaViolenta': 100,
     'suporteAcabamentoElaborado': 100,
     'colaTracosOnda': 100,
-    'plantaConstrucaoLuvaNegraShiro': 10,
+    'plantaConstrucaoCascoNegroShiro': 10,
     'permissaoAlteracaoPecaCarracaEpheriaGradual': 1,
   },
 );
